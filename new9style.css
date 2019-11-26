@@ -1,0 +1,24 @@
+body{
+    background-color: #141414;
+    color: white;
+    margin: auto;
+    padding: 30px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 30px;
+    font-size: 60px;
+}
+
+.col-xs-3{
+    padding: 13px;
+}
+
+h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
